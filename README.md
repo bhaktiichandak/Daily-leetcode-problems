@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+## Database
+|  |
+| ------- |
+| [1251-average-selling-price](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
