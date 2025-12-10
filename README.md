@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0176-second-highest-salary) |
 | [1251-average-selling-price](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1251-average-selling-price) |
 ## Hash Table
 |  |
