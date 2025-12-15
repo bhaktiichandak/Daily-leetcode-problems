@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0029-divide-two-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Database
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
