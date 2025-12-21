@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0018-4sum) |
 | [0073-set-matrix-zeroes](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 <!---LeetCode Topics End-->
