@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 ## Backtracking
 |  |
 | ------- |
