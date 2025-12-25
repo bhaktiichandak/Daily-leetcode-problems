@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0018-4sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Math
 |  |
 | ------- |
@@ -96,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
