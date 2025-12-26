@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
