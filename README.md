@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0073-set-matrix-zeroes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/2402-meeting-rooms-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
