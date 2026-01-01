@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0018-4sum) |
+| [0066-plus-one](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0066-plus-one) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Database
 |  |
