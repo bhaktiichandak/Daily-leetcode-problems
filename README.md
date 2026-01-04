@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1390-four-divisors) |
 | [2402-meeting-rooms-iii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0066-plus-one) |
+| [1390-four-divisors](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Database
 |  |
