@@ -2,8 +2,6 @@ class Solution:
     def maxProduct(self, root: Optional[TreeNode]) -> int:
         MOD = 10**9 + 7
         self.max_prod = 0
-        
-        # Step 1: get total sum
         def totalSum(node):
             if not node:
                 return 0
@@ -11,7 +9,6 @@ class Solution:
         
         total = totalSum(root)
         
-        # Step 2: compute subtree sums & maximize product
         def dfs(node):
             if not node:
                 return 0
