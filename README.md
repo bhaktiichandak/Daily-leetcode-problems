@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1975-maximum-matrix-sum) |
 | [2402-meeting-rooms-iii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/2402-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3453-separate-squares-i](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/3453-separate-squares-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2402-meeting-rooms-iii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/2402-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Matrix
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
