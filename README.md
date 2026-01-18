@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1895-largest-magic-square](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1975-maximum-matrix-sum) |
 | [2402-meeting-rooms-iii](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1975-maximum-matrix-sum) |
 ## String
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-largest-magic-square](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/bhaktiichandak/Daily-leetcode-problems/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Simulation
 |  |
