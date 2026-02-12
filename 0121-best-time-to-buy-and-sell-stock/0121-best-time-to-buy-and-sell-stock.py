@@ -1,10 +1,10 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        profit = 0
-        minStockVal = float('inf')
-        for i in prices:
-            profit = max(profit, i - minStockVal)
-            minStockVal = min(minStockVal, i)
-        return profit
+        min_price = float('inf')
+        max_profit = 0
         
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
+        for price in prices:
+            min_price = min(min_price, price)
+            max_profit = max(max_profit, price - min_price)
+        
+        return max_profit
