@@ -1,13 +1,15 @@
 class Solution:
     def transpose(self, matrix: List[List[int]]) -> List[List[int]]:
+        m = len(matrix)
+        n = len(matrix[0])
 
-        rows = len(matrix)
-        cols = len(matrix[0])
+        ans = []
 
-        result = [[0]*rows for _ in range(cols)]
+        for c in range(n):
+            row = []
+            for r in range(m):
+                row.append(matrix[r][c])
+            ans.append(row)
 
-        for i in range(rows):
-            for j in range(cols):
-                result[j][i] = matrix[i][j]
+        return ans
 
-        return result
