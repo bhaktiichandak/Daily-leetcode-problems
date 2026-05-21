@@ -5,7 +5,6 @@ class Solution:
             while val not in arr1_prefixes and val > 0:
                 arr1_prefixes.add(val)
                 val //= 10
-
         longest_prefix = 0
         for val in arr2:
             while val not in arr1_prefixes and val > 0:
